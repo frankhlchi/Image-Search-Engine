@@ -1,3 +1,6 @@
+“Image Retrival With Text Query”
+https://github.com/frankhlchi/Image-Search-Engine/blob/master/report.pdf
+
 Files needed to run the code:
 
 - GoogleNews-vectors-negative300.bin.gz
